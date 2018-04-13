@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+<?xml version="1.0" encoding="UTF-8"?><!--
  Copyright 2016-2017 Red Hat, Inc, and individual contributors.
 
  Licensed under the Apache License, Version 2.0 (the "License");
@@ -112,7 +112,7 @@
           <plugin>
             <groupId>io.fabric8</groupId>
             <artifactId>fabric8-maven-plugin</artifactId>
-            <version>3.5.28</version>
+            <version>3.5.38</version>
             <executions>
               <execution>
                 <id>fmp</id>
@@ -128,7 +128,7 @@
           <resources>
             <labels>
               <all>
-                <space>dec-11-17-3</space>
+                <space>exec3</space>
               </all>
             </labels>
           </resources>
